@@ -5,10 +5,6 @@ import java.util.List;
 
 import com.tn.spring.learningspring.business.ReservationService;
 import com.tn.spring.learningspring.business.RoomReservation;
-import com.tn.spring.learningspring.data.Guest;
-import com.tn.spring.learningspring.data.Reservation;
-import com.tn.spring.learningspring.data.Room;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.context.event.ApplicationReadyEvent;
 import org.springframework.context.ApplicationListener;
 import org.springframework.stereotype.Component;
