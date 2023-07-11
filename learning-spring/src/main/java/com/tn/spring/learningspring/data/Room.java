@@ -56,10 +56,10 @@ public class Room {
     @Override
     public String toString() {
         return "Room{" +
-               "id=" + id +
-               ", name='" + name + '\'' +
-               ", roomNumber='" + roomNumber + '\'' +
-               ", bedInfo='" + bedInfo + '\'' +
-               '}';
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", roomNumber='" + roomNumber + '\'' +
+                ", bedInfo='" + bedInfo + '\'' +
+                '}';
     }
 }
